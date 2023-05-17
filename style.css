@@ -7,7 +7,7 @@ body {
 
 .container {
   position: absolute;
-  top: 250px;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -27,7 +27,7 @@ body {
   text-align: center;
   color: white;
   text-shadow: 1px 1px #2c3a49;
-  top: 450px;
+  top: 50%;
   font-size: 20px;
   width: 80%;
   left: 10%;
