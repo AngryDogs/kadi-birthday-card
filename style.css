@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 body {
-  background: #de6c6c;
+  background: #e91e63;
   font-family: 'Fredoka One', cursive;
+  margin: 0;
+  height: 100%;
   overflow: hidden;
 }
 
